@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/jsLibraryMappings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/react-redux-book-list.iml
+/.idea/vcs.xml
+.idea/workspace.xml
+
+# dependencies
+/node_modules
+
